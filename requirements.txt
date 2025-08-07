@@ -1,0 +1,7 @@
+numpy
+pandas
+ipywidgets
+bokeh
+openpyxl
+voila
+jupyterlab
